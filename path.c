@@ -8,7 +8,6 @@
  * @cmd: executable command
  * Return: pathname.
  */
- 
 char *find_path(char *cmd)
 {
 	char *path, *pathcp, *dir, *temp;

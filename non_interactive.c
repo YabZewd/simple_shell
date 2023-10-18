@@ -8,7 +8,6 @@
  * @shell: pointer to shell struct
  * Return: nothing
  */
- 
 void non_interactive(sh_data *shell)
 {
 	char *path;

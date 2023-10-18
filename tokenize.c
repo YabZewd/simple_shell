@@ -35,7 +35,6 @@ int count_tokens(char *line)
  * @line: pointer to  line string
  * Return: tokenized string
  */
- 
 char **tokenize(char *line)
 {
 	const char *delim = " \t\a\r\n";
